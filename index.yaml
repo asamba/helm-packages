@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  jx-helloworld-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-08-31T11:13:43.063975-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 6a71a30cc39947272193b5014654595e984ebda4fdfb010b2d3aa716bdddb5fe
+    name: jx-helloworld-app
+    urls:
+    - jx-helloworld-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-08-31T11:13:43.060402-07:00"
